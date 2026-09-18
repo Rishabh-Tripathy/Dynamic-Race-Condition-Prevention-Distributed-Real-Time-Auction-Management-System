@@ -1,0 +1,9 @@
+==================================================
+            FLASHBID SETTLEMENT INVOICE           
+==================================================
+Item Reference : #3
+Item Title     : Mechanical Keyboard
+Winner         : None
+Settled Amount : Rs.2500.0
+Status         : CLOSED & PERSISTED
+==================================================

@@ -1,0 +1,9 @@
+==================================================
+            FLASHBID SETTLEMENT INVOICE           
+==================================================
+Item Reference : #2
+Item Title     : Gaming Laptop RTX 4060
+Winner         : None
+Settled Amount : Rs.50000.0
+Status         : CLOSED & PERSISTED
+==================================================
